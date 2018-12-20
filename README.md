@@ -15,11 +15,12 @@ elaborar um autoral.
 Etapa => Um semestre é dividido em dois blocos, denominei cada bloco de etapa.
 
 ## Detalhes do script
-Caso o professor use soma simples:
-<ol>
-<li>SOME todas as notas da etapa e coloque, mesmo que de forma repetida, no script, quando for solicitado</li>
-<li>Caso você deseje saber quantos pontos você precisa para passar na segunda etapa:<br/>2.1 Digite o número zero na segunda etapa e dê enter</li>
-</ol>
+
+1. Caso o professor use soma simples:
+1.1 SOME todas as notas da etapa e coloque, mesmo que de forma repetida, no script, quando for solicitado.
+
+2. Caso você deseje saber quantos pontos você precisa para passar na segunda etapa:
+2.1 Digite o número zero na segunda etapa e dê enter.
 
 ## O que ainda irá ser implementado
 1. Adequar o script para atender a quantidade de notas que o professor atribui por etapa;
