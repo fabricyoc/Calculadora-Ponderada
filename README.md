@@ -1,6 +1,6 @@
 # MediaPonderada
 
-## Install
+## Compilar
 
 ```
 $ gcc mediaPonderadaIFRN.c -o mediaPonderadaIFRN
