@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+##############################################
+########### Author: Fabricyo Costa ###########
+##############################################
+
 float QuantoPreciso(float mediaUm)
 {
     float calcMediaParcialUm, resultadoPontos, resultadoFinal;
